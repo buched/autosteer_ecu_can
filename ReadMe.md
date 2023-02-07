@@ -3,3 +3,4 @@
 
 Update 31.12.2022  
 - GPS options added to serial monitor service tool  
+own version to work with my new pcb 
